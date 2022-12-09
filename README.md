@@ -1,2 +1,3 @@
 # Object_tracking
-CSC_5930
+CSC_5930: Computer Vision
+
